@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# demo
+- [react-movie-search(grid布局)](https://lebronjs.github.io/react-movie-search/build/index.html)
 
-You can use the [editor on GitHub](https://github.com/lebronjs/demo-list/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 手摸手写代码
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### css 系列
 
-### Markdown
+- [两栏布局](https://lebronjs.github.io/hand-by-hand/css/两栏布局.html)
+- [三栏布局](https://lebronjs.github.io/hand-by-hand/css/三栏布局.html)
+- [圣杯+双飞翼](https://lebronjs.github.io/hand-by-hand/css/圣杯+双飞翼.html)
+- [正方形](https://lebronjs.github.io/hand-by-hand/css/正方形.html)
+- [📌 三角形](https://lebronjs.github.io/hand-by-hand/css/三角形.html)
+- [扇形](https://lebronjs.github.io/hand-by-hand/css/扇形.html)
+- [📌 水平垂直居中](https://lebronjs.github.io/hand-by-hand/css/水平垂直居中.html)
+- [遮罩弹出框](https://lebronjs.github.io/hand-by-hand/css/弹出框.html)
+- [📌 可滚动导航栏](https://lebronjs.github.io/hand-by-hand/css/导航栏.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### js 系列
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lebronjs/demo-list/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- `new` [模拟实现](https://github.com/lebronjs/hand-by-hand/blob/master/js/_new.js)
+- `call、apply、bind` [模拟实现](https://github.com/lebronjs/hand-by-hand/blob/master/js/_call_apply_bind.js)
+- `ajax` [手写实现](https://github.com/lebronjs/hand-by-hand/blob/master/js/_ajax.js)
+- `jsonp` [手写实现](https://github.com/lebronjs/hand-by-hand/blob/master/js/_jsonp.js)
+- `节流` [手写实现](https://github.com/lebronjs/hand-by-hand/blob/master/js/_throttle.js) [实例: codepen](https://codepen.io/xuge/pen/NWxdWRx)
+- `防抖` [手写实现](https://github.com/lebronjs/hand-by-hand/blob/master/js/_debounce.js) [实例: codepen](https://codepen.io/xuge/pen/LYGbVqB)
+- `promise` [手写实现](https://github.com/lebronjs/hand-by-hand/blob/master/js/_promise.js)
+- `路由 - hash` [手写实现](https://lebronjs.github.io/hand-by-hand/js/hash_route.html)
+- `路由 - history` [手写实现](https://lebronjs.github.io/hand-by-hand/js/history_route.html)
+- `洗牌算法` [手写实现](https://github.com/lebronjs/hand-by-hand/blob/master/js/_shuffle.js)
+- `深拷贝` [模拟实现](https://github.com/lebronjs/hand-by-hand/blob/master/js/_clone.js)
+- `函数库里化` [模拟实现](https://github.com/lebronjs/hand-by-hand/blob/master/js/_curry.js)
